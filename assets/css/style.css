@@ -36,21 +36,6 @@ h2, h3, h4, h5, h6 {
   padding: 15px 0;
 }
 
-/*--------------------------------------------------------------
-# Header Social Links
---------------------------------------------------------------*/
-.header-social-links a {
-  color: #6f6f6f;
-  padding-left: 6px;
-  display: inline-block;
-  line-height: 0px;
-  transition: 0.3s;
-  font-size: 16px;
-}
-
-.header-social-links a:hover {
-  color: #34b7a7;
-}
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -90,11 +75,6 @@ h2, h3, h4, h5, h6 {
   position: relative;
 }
 
-.navbar a i {
-  font-size: 12px;
-  line-height: 0;
-  margin-left: 5px;
-}
 
 .navbar > ul > li > a:before {
   content: "";
@@ -119,6 +99,28 @@ h2, h3, h4, h5, h6 {
 }
 
 
+/*--------------------------------------------------------------
+# Header Social Links
+--------------------------------------------------------------*/
+.header-social-links {
+  display: flex;
+  list-style: none;
+  flex: right;
+  
+}
+
+/* .header-social-links a {
+  color: #6f6f6f;
+  padding-left: 1rem;
+  position: relative;
+  line-height: 0px;
+  transition: 0.3s;
+  font-size: 16px;
+} */
+
+.header-social-links a:hover {
+  color: #34b7a7;
+}
 
 /*--------------------------------------------------------------
 # Hero Section
@@ -131,8 +133,7 @@ h2, h3, h4, h5, h6 {
 }
 
 #hero .container {
-  padding-top: 70px;
-  position: relative;
+  padding-top: 10rem;
   text-align: center;
 }
 
