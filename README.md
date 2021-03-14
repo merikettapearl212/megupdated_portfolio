@@ -18,7 +18,7 @@ Link to site <a href="https://merikettapearl212.github.io/megupdated_portfolio/"
 
 
 #### Screenshot of example:
-<img src="assets/img/portfolio/screencapture-merikettapearl212-github-io-megupdated-portfolio-2021-03-13-18_26_00.png" width="400" height="800">
+<img src="assets/img/portfolio/screencapture-merikettapearl212-github-io-megupdated-portfolio-2021-03-13-18_26_00.png" width="400" height="1000">
 
 
 
