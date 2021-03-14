@@ -14,11 +14,11 @@
 
 ## Description
 An updated portfolio containing most recent works, containing resume and links to my other references.
-link to site <a href="https://merikettapearl212.github.io/megupdated_portfolio/">here</a>
+Link to site <a href="https://merikettapearl212.github.io/megupdated_portfolio/">here</a>
 
 
 #### Screenshot of example:
-<img src="assets/img/portfolio/screencapture-merikettapearl212-github-io-megupdated-portfolio-2021-03-13-18_26_00.png" width="400" height="600">
+<img src="assets/img/portfolio/screencapture-merikettapearl212-github-io-megupdated-portfolio-2021-03-13-18_26_00.png" width="400" height="800">
 
 
 
